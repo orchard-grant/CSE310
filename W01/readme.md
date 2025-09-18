@@ -1,6 +1,6 @@
 # Hello World
 
-Add a description of your project here.
+This is a simple way to write hello world in a 
 
 
 ## Instructions for Build and Use
