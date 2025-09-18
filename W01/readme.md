@@ -37,6 +37,4 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* I could make it into one element, instead of having a variable and printing it.
